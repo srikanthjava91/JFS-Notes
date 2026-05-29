@@ -2,6 +2,11 @@ Tes2
 Batch 70 Core Java Notes : 
 https://docs.google.com/document/d/1IDtFJCgD6xXRsWyoeoL45_YC9bGhxSBTPiFZ_rDm11I/edit?usp=sharing
 
+Spring vs Spring Boot vs Microsevices 
+Spring 2026 
+
+https://docs.google.com/document/d/1-61eub0luRvJBeKZ5ytDaO56bWW1Jpo4yhIMkknTUy8/edit?usp=sharing
+
 -----------------------------------------------------------------------------------------------------
 
 
